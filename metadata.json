@@ -1,0 +1,6 @@
+{
+  "name": "Screenshot to Word",
+  "description": "Convert screenshots and images into editable Word documents and text using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
